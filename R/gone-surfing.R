@@ -1,22 +1,3 @@
-#----original function----
-gone_surfing <- function(waves, size, temp) {
-  waves <- if (waves == "yes") {
-    print("Surf's up!")
-  } else if (waves != "yes") {
-    print("Try again tomorrow!")
-  }
-  size <- if (size < 3) {
-    print("You will need a bigger board.")
-  } else
-    print("Take a smaller board!")
-  temp <- if (temp < 60) {
-    print("You will need a wetsuit.")
-  } else
-    print("No wetsuit needed!")
-  report <- paste(waves, size, temp)
-  print(report)
-}
-
 #----best function----
 #' Gone Surfing
 #'
