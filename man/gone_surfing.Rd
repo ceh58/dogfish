@@ -7,11 +7,11 @@
 gone_surfing(waves, size, temp)
 }
 \arguments{
-\item{waves}{Can you see waves? "yes" or "no"}
+\item{waves}{Can you see waves? Should be a "yes" or "no".}
 
 \item{size}{Size of the waves (ft)}
 
-\item{temp}{Temperature of the water (F)}
+\item{temp}{Temperature of the water (degrees F)}
 }
 \description{
 A function to build a surf report based on observable conditions.

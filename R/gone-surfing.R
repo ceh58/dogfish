@@ -3,9 +3,9 @@
 #'
 #' A function to build a surf report based on observable conditions.
 #'
-#' @param waves Can you see waves? "yes" or "no"
+#' @param waves Can you see waves? Should be a "yes" or "no".
 #' @param size Size of the waves (ft)
-#' @param temp Temperature of the water (F)
+#' @param temp Temperature of the water (degrees F)
 #'
 #' @return
 #' @export
