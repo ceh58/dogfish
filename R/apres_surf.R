@@ -1,5 +1,5 @@
 #' Apres Surf
-#' This function helps you decide what to pack in your cooler for the beach.
+#' ## This function helps you decide what to pack in your cooler for the beach.
 #'
 #' @param timeday must be either "morning", "noon", or "afternoon"
 #' @param age age of the surfer

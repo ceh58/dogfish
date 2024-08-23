@@ -3,7 +3,7 @@
 \name{apres_surf}
 \alias{apres_surf}
 \title{Apres Surf
-This function helps you decide what to pack in your cooler for the beach.}
+## This function helps you decide what to pack in your cooler for the beach.}
 \usage{
 apres_surf(timeday, age)
 }
@@ -14,7 +14,7 @@ apres_surf(timeday, age)
 }
 \description{
 Apres Surf
-This function helps you decide what to pack in your cooler for the beach.
+## This function helps you decide what to pack in your cooler for the beach.
 }
 \examples{
 apres_surf("noon", 12)
